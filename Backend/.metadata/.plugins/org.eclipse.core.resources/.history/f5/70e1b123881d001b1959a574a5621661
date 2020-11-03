@@ -1,0 +1,12 @@
+package com.tienda.services;
+
+
+import java.util.List;
+import com.tienda.entities.UsuarioEntity;
+
+
+public interface UsuarioService {
+	
+	public List<UsuarioEntity> encontraUsuarios();
+
+}

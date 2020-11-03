@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+    <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.PagingAndSortingRepository"/>
+    <fullyQualifiedTypeName name="com.tienda.repositories.UsuarioDao"/>
+    <fullyQualifiedTypeName name="com.tienda.repositories.PedidosDao"/>
+    <fullyQualifiedTypeName name="com.tienda.repositories.DireccionDao"/>
+    <fullyQualifiedTypeName name="com.tienda.entities.CategoriaEntity"/>
+    <fullyQualifiedTypeName name="com.tienda.repositories.ProductoDao"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.tienda.services.CategoriaService"/>
+    <fullyQualifiedTypeName name="com.tienda.services.DireccionService"/>
+    <fullyQualifiedTypeName name="com.tienda.entities.PedidosEntity"/>
+    <fullyQualifiedTypeName name="com.tienda.services.PedidosService"/>
+    <fullyQualifiedTypeName name="com.tienda.services.ProductoService"/>
+    <fullyQualifiedTypeName name="com.tienda.entities.ProductoEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.tienda.services.UsuarioService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="com.tienda.entities.UsuarioEntity"/>
+    <fullyQualifiedTypeName name="com.tienda.repositories.CategoriaDao"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.tienda.dtos.Combinada"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="com.tienda.dtos.Icombinada"/>
+    <fullyQualifiedTypeName name="com.tienda.entities.DireccionEntity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+</qualifiedTypeNameHistroy>

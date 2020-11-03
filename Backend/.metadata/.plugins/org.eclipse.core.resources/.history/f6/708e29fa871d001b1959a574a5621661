@@ -1,0 +1,9 @@
+package com.tienda.repositories;
+
+import org.springframework.data.repository.PagingAndSortingRepository;
+
+import com.tienda.entities.UsuarioEntity;
+
+public interface UsuarioDao extends PagingAndSortingRepository<UsuarioEntity, Long> {
+
+}

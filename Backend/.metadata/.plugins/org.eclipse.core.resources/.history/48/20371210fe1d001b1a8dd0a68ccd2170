@@ -1,0 +1,13 @@
+package com.tienda.dtos;
+
+import lombok.Getter;
+
+@Getter
+public interface Icombinada {
+	 Long getNombre();
+	 Long getApellido();
+	 Long getCalle();
+	 Long getNumero();
+	
+
+}

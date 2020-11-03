@@ -1,0 +1,15 @@
+package com.tienda.repositories;
+
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.PagingAndSortingRepository;
+
+import com.tienda.entities.CategoriaEntity;
+
+public interface CategoriaDao extends PagingAndSortingRepository<CategoriaEntity, Long> {
+	
+	
+
+}
