@@ -1,7 +1,1 @@
-INDEX VERSION 1.4+C:\Tienda\Backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2523959112.index
-2405439480.index
-1097421328.index
-3279206320.index
-136124448.index
-1275148183.index
+INDEX VERSION 1.4+C:\STS\Prueba\RepoTienda\Backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

@@ -16,8 +16,13 @@ public class CategoriaServiceImpl implements CategoriaService {
 	
 	@Override
 	public List<CategoriaEntity> encontraCategorias() {
+		
+		List<CategoriaEntity> listaCategorias = (List<CategoriaEntity>) categoriaDao.findAll();
+//		for(CategoriaEntity catego : listaCategorias) {
+//			categotoDTO(catego);
+//		}
 	
-		return (List<CategoriaEntity>) categoriaDao.findAll();
+		return listaCategorias;
 	}
 
 }
