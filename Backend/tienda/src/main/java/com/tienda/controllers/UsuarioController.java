@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.tienda.dtos.Combinada;
 import com.tienda.dtos.Icombinada;
+import com.tienda.dtos.UsuarioDTO;
 import com.tienda.entities.UsuarioEntity;
 import com.tienda.services.UsuarioService;
 
