@@ -24,5 +24,15 @@ public class CategoriaServiceImpl implements CategoriaService {
 	
 		return listaCategorias;
 	}
+	
+	@Override
+	public List <CategoriaEntity> SuperCategorias(){
+		return (List<CategoriaEntity>) categoriaDao.findSuperCategorias();
+	}
+	
+	@Override
+	public List <CategoriaEntity> SubCategorias(Long id){
+		return (List<CategoriaEntity>) categoriaDao.findSubCategorias(id);
+	}
 
 }
