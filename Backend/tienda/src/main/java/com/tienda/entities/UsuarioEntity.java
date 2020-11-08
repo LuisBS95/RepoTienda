@@ -28,6 +28,8 @@ public class UsuarioEntity implements Serializable {
 	
 	private String email;
 	
+	private String password;
+	
 	@Column(name = "fecha_nacimiento")
 	private Date fechaNacimiento;
 //

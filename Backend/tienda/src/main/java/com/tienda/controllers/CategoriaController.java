@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import com.tienda.dtos.CategoriaDTO;
 import com.tienda.entities.CategoriaEntity;
 
 import com.tienda.services.CategoriaService;
@@ -23,7 +24,7 @@ public class CategoriaController {
 	}
 	
 	@GetMapping("/super")
-	public List<CategoriaEntity> listarSuper(){
+	public List<CategoriaDTO> listarSuper(){
 		return categoriaService.SuperCategorias();
 	}
 	
